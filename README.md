@@ -1,2 +1,2 @@
 # AFL-Project
-With this project, I sought to answer a few questions related to the Australian Football League:
+With this project, I sought to answer a few questions related to the Australian Football League: What (player) statistics are most meaningful to team outcomes? What team or player statistics do you believe lead to playoff success? You're the GM of an Australian Rules Football team…how should you construct a team (Star power? Balance? Depth?)? Why? Who are the top 3 players at each position overall over this period? (Is there a way to compare performance across positions?)
